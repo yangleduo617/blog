@@ -3,7 +3,7 @@ home: true
 heroImage: /img/yang.png
 actionText: 笔记 →
 heroText: 养乐多
-actionLink: /basics/notes/Chapter01_基础
+actionLink: /basics/
 features:
 - title: 逐渐积累
   details: 将细碎的知识点串起来

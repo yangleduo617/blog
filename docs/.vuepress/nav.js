@@ -1,6 +1,6 @@
 module.exports = [
     {
-        text: 'Java基础', link: '/basics/'
+        text: 'Java基础', link: '/basics/notes/Chapter01_基础'
     },
     {
         text: '算法', link: "/algo/",
